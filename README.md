@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java ,DSA , JDBC , framework**
 
-- 📫 How to reach me **mohdfaraj195@gmail.com**
+- 📫 How to reach me **faraj.anasri16gmail.com**
 
 - 📄 Know about my experiences [https://shorturl.at/bftO9](https://shorturl.at/bftO9)
 
