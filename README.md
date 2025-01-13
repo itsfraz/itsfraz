@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **faraj.anasri16gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/bftO9](https://shorturl.at/bftO9)
+- 📄 Know about my experiences [https://itsfraz.github.io/Portfolio/index.html](https://itsfraz.github.io/Portfolio/index.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
