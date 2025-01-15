@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsfraz&label=Profile%20views&color=0e75b6&style=flat" alt="itsfraz" /> 
 </p>
 <p align="left"> <a href="https://komarev.com/ghpvc/?username=faraz4807&label=Profile%20views&color=0e75b6&style=flat"  alt="itsfraz" /></a> </p>
-- 🔭 I’m currently working on **Travel Management System**
+- 🔭 I’m currently working on **Hotel Management System (MERN)**
 
-- 🌱 I’m currently learning **Java ,DSA , JDBC , framework**
+- 🌱 I’m currently learning **JavaScript ,ReactJs,NodeJs, Express, Database,DSA , JDBC , framework**
 
 - 📫 How to reach me **faraj.anasri16gmail.com**
 
