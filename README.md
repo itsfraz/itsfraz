@@ -2,7 +2,7 @@
   
   <!-- Animated Header -->
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Mohd+Faraj+Ansari;Software+Engineer+from+India;MERN+Stack+Developer;Passionate+Coder;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Mohd+Faraz+Ansari;Software+Engineer+from+India;MERN+Stack+Developer;Passionate+Coder;Problem+Solver" alt="Typing SVG" />
   </div>
 
   <!-- Profile Views -->
